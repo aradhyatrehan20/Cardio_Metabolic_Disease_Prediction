@@ -123,33 +123,11 @@ Disease Prediction
 
 ### Diabetes Prediction
 
-<img src="images/Diabetes Prediction.jpeg" width="900">
+<img src="Diabetes Prediction.jpeg" width="900">
 
 ### Heart Disease Prediction
 
-<img src="images/heart_prediction.png" width="900">
-
----
-
-## ▶️ Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Application
-
-```bash
-streamlit run app.py
-```
+<img src="Heart Disease Prediction.jpeg" width="900">
 
 ---
 
