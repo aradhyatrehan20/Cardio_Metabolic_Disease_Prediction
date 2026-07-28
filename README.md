@@ -123,7 +123,7 @@ Disease Prediction
 
 ### Diabetes Prediction
 
-<img src="images/diabetes_prediction.png" width="900">
+<img src="images/Diabetes Prediction.jpeg" width="900">
 
 ### Heart Disease Prediction
 
